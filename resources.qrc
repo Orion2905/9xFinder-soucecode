@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="UI_ICONS">
+    <file>images/icons/stop-button.png</file>
+    <file>images/icons/add-folder.png</file>
+    <file>images/icons/logo.png</file>
+    <file>images/icons/remove-folder.png</file>
+    <file>images/icons/refresh.png</file>
+    <file>images/icons/before.png</file>
+    <file>images/icons/folder.png</file>
+    <file>images/icons/next.png</file>
+    <file>images/icons/search (1).png</file>
+    <file>images/icons/image.png</file>
+    <file>images/icons/pictures.png</file>
+    <file>images/icons/search.png</file>
+    <file>images/icons/upload.png</file>
+    <file>images/icons/cloud-arrow-up.svg</file>
+    <file>images/icons/search.svg</file>
+    <file>images/icons/eye.svg</file>
+    <file>images/icons/eye-slash.svg</file>
+    <file>images/icons/close.png</file>
+    <file>images/icons/contract.png</file>
+    <file>images/icons/pause.png</file>
+    <file>images/icons/pdf-file.png</file>
+    <file>images/icons/play.png</file>
+    <file>images/icons/return.png</file>
+    <file>images/icons/txt-file-symbol.png</file>
+    <file>images/icons/user.png</file>
+  </qresource>
+</RCC>
